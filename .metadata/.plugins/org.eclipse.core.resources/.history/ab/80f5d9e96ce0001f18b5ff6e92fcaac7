@@ -1,0 +1,28 @@
+package AutomationDemo1;
+
+import java.util.Set;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class WindowHandleMethod {
+	public static void main(String[] args) throws InterruptedException {
+		WebDriverManager.chromedriver().setup();
+		ChromeDriver driver= new ChromeDriver();
+		
+		driver.get("https://www.saucedemo.com");
+		driver.manage().window().maximize();
+		String windowID=driver.getWindowHandle();
+		System.out.println("WindowID is:" +windowID);
+		driver.navigate().to("https://www.opencart.com/");
+		driver.findElement(By.linkText("Demo")).click();
+		Set<String> windowIds=driver.getWindowHandles();
+		System.out.println("windowIds is:" +windowIds);
+		Thread.sleep(5000);
+		
+		
+	}
+
+}

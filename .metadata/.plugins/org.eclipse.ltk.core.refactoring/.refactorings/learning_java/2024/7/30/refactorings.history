@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;learning_java.String.java&apos; to &apos;StringLitral.java&apos;&#x0D;&#x0A;- Original project: &apos;learning_java&apos;&#x0D;&#x0A;- Original element: &apos;learning_java.String.java&apos;&#x0D;&#x0A;- Renamed element: &apos;learning_java.StringLitral.java&apos;" description="Rename compilation unit &apos;String.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;learning_java{String.java" name="StringLitral.java" references="false" stamp="1721846605385" version="1.0"/>
+</session>

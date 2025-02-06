@@ -1,0 +1,8 @@
+package AutomationDemo1;
+
+public class MethodsInWebDriverInterface {
+	public static void main(String[] args) {
+		
+	}
+
+}

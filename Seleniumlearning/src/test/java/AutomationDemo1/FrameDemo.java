@@ -1,0 +1,26 @@
+package AutomationDemo1;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class FrameDemo {
+	public static void main(String[] args) {
+
+		WebDriverManager.chromedriver().setup();
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("https://www.w3schools.com/js/tryit.asp?filename=tryjs_default");
+		driver.manage().window().maximize();
+		driver.switchTo().frame(0);
+
+		driver.switchTo().frame("iframeResult");
+		WebElement frame1=driver.findElement(By.name("iframeResult"));
+		driver.switchTo().frame("frame1");
+		driver.findElement(By.xpath("//button[@onclick='myFunction()']")).click();
+		driver.switchTo().parentFrame();
+		System.out.println(driver.getTitle());
+
+	}
+}

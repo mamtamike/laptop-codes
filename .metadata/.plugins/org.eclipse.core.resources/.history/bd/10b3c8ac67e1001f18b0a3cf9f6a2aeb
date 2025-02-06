@@ -1,0 +1,33 @@
+package AutomationDemo1;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class WindowHandleMethod {
+	public static void main(String[] args) throws InterruptedException {
+		WebDriverManager.chromedriver().setup();
+		ChromeDriver driver= new ChromeDriver();
+		
+//		driver.get("https://www.saucedemo.com");
+//		driver.manage().window().maximize();
+//		String windowID=driver.getWindowHandle();
+//		System.out.println("WindowID is:" +windowID);
+//		
+		
+		driver.get("https://www.sugarcrm.com"); //windowhandles is used when in a website there more than one window tab is open it will id of each window tab
+		driver.findElement(By.xpath("//*[@id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll\"]")).click(); //accept cookies
+		
+//	String windowID=driver.getWindowHandle();
+//	System.out.println("windowid is:"+windowID);
+	
+		WebElement ddrop=driver.findElement(By.xpath("//ul[@id='menu-utility-menu']//a"));
+		Select selectoption=new Select(ddrop);
+		selectoption.selectByIndex(0);
+			
+	}
+
+}

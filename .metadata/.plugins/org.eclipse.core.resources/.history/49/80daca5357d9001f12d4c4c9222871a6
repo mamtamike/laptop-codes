@@ -1,0 +1,21 @@
+package Inheritance;
+
+public class Base {
+	int x;
+	void printMe()
+	{
+		System.out.println("mamta");
+	}
+	 public int getx() {
+		 return x;
+	 }
+	public void setx(int x) {
+		System.out.println("I am setting x now");
+		this.x=x;
+	}
+	
+}
+
+	
+		
+

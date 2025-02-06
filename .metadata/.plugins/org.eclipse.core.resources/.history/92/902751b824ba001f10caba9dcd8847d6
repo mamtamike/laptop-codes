@@ -1,0 +1,20 @@
+package learning_java;
+
+public class Operator {
+	public static void main(String[] args) {
+		int myNumber = 90;
+		int herNumber =9;
+		String str= "hello";
+		int i = -9;
+		 
+		System.out.println(myNumber/herNumber);
+		System.out.println(myNumber%herNumber);
+		System.out.println(myNumber*herNumber);
+		System.out.println(myNumber+herNumber);
+		System.out.println(myNumber-herNumber);
+		 
+		System.out.println(myNumber+str);
+		System.out.println(myNumber+i);
+	}
+
+}

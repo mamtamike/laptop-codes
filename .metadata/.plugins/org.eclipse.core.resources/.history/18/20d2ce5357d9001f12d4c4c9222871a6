@@ -1,0 +1,13 @@
+package Inheritance;
+
+public class Derived extends Base {
+	int y;
+	 public void sety(int y) {
+		this.y=y;
+	}
+	public int gety() {
+		return y;
+	}
+	
+
+}

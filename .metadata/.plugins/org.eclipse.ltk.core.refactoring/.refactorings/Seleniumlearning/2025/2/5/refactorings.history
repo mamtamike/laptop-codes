@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WorkingWithWebElements.java&apos; to &apos;Seleniumlearning/src/test/java/AutomationDemo1&apos;&#x0D;&#x0A;- Original project: &apos;Seleniumlearning&apos;&#x0D;&#x0A;- Destination element: &apos;Seleniumlearning/src/test/java/AutomationDemo1&apos;&#x0D;&#x0A;- Original element: &apos;AutomationDemo1.WorkingWithWebElements.java&apos;" description="Copy compilation unit" destination="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;AutomationDemo1" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;AutomationDemo1{WorkingWithWebElements.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1738411820644" units="1" version="1.0"/>
+</session>

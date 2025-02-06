@@ -1,0 +1,32 @@
+package learning_java;
+
+public class Operators {
+	public static void main(String[] args) {
+		int number1 = 10;
+		int myNumber = 20;
+		
+		if (number1==myNumber)
+	    { 
+			System.out.println("numbers are equal");
+		}
+		
+		
+		else
+		{
+			System.out.println("numbers are not equal");
+			
+		}
+
+	if ((number1==10) && (myNumber==20))
+	{
+		
+	System.out.println("this is conditional operator");
+   }	
+   if ((number1==10) || (myNumber==20))
+   {
+	System.out.println("this is conditional operator");
+	}
+}
+}
+
+

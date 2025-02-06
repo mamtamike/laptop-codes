@@ -1,0 +1,19 @@
+package Inheritance;
+
+public class Derived extends Base  {
+	public static void main(String[] args) {
+			}
+	
+	public void callDerived() {
+		printMe();
+		getx();	
+	}
+//	int y;
+//	 public void sety(int y) {
+//		this.y=y;
+//	}
+//	public int gety() {
+//		return y;
+//	}
+}
+

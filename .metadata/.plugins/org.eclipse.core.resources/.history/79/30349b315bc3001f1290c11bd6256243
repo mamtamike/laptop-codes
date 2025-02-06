@@ -1,0 +1,20 @@
+package learning_java;
+
+public class MultiDimeArray {
+	public static void main(String[] args) {
+		
+	    int[][] myMultiDimeArray1 = {{2,3,5},{6,8,9}};
+	  //  System.out.println(myMultiDimeArray1[0][1]);
+	    
+	    for(int i=0; i<myMultiDimeArray1.length; i++) 
+	    {
+	    	for(int j=0;j<myMultiDimeArray1[i].length;j++) {
+	    		System.out.print(myMultiDimeArray1[i][j]+" ");
+	    		 System.out.println(" ");
+	    }
+	 
+	    }
+	}
+
+}
+

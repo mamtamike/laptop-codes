@@ -1,0 +1,45 @@
+package AutomationDemo1;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class SelectDropDown {
+	public static void main(String[] args) throws InterruptedException {
+		WebDriverManager.chromedriver().setup();
+		ChromeDriver driver=new ChromeDriver();
+		driver.manage().window().maximize();
+	//	driver.get("https://www.sugarcrm.com/au/request-demo/");
+		/*driver.findElement(By.xpath("//*[@id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll\"]")).click(); //accept cookies
+		WebElement ddrop=driver.findElement(By.name("input_8"));
+		Select select=new Select(ddrop);
+		select.selectByIndex(1);
+		Thread.sleep(2000);
+		select.selectByValue("level4");
+		Thread.sleep(2000);
+		select.selectByVisibleText("2,501 - 5,000 employees");*/
+		
+		driver.get("https://codepen.io/savrajdutta/pen/poxgqLE");
+		
+		driver.findElement(By.xpath("/html/body/div/div/div/button")).click();
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("/html/body/div/div/div/button")).click();
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("/html/body/div/div/div/button")).click();
+		
+		//WebElement ddrop =driver.findElement(By.id("current-job-role"));
+//		Select select=new Select(ddrop);
+//		select.selectByValue("2");
+//		select.selectByValue("3");
+//		select.selectByValue("4");
+//		List<WebElement> allListItems= select.getAllSelectedOptions();
+//		System.out.println(allListItems.size());
+}
+	
+
+}
