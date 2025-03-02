@@ -1,7 +1,5 @@
 package AutomationDemo1;
 
-
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -25,6 +25,5 @@ public class WorkingWithWebElements {
 		System.out.println(driver.findElement(By.xpath("//*[@id=\"gform_submit_button_1\"]")).isSelected());
 		System.out.println(driver.findElement(By.xpath("//*[@id=\"menu-item-20406\"]/a/span[1]")).getText());
 		
-
 	}
 }

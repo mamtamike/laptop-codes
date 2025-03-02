@@ -2259,3 +2259,963 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2025-02-06 19:25:50,673 [Worker-17: Launching AlertDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-02-06 19:25:50,682 [Worker-17: Launching AlertDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
 2025-02-06 22:34:56,940 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-06 22:41:11,130 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-06 22:41:11,144 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-06 22:41:11,151 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-06 22:41:11,154 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 11:51:10,219 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-07 16:38:17,453 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-07 17:14:45,370 [Worker-20: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:14:45,407 [Worker-20: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 17:14:45,420 [Worker-20: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:14:45,429 [Worker-20: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 17:20:00,108 [Worker-17: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:20:00,118 [Worker-17: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 17:20:00,126 [Worker-17: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:20:00,129 [Worker-17: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 17:28:26,081 [Worker-17: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:28:26,087 [Worker-17: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 17:28:26,096 [Worker-17: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:28:26,102 [Worker-17: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 17:30:39,602 [Worker-30: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:30:39,673 [Worker-30: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 17:30:39,683 [Worker-30: Launching WindowHandling] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:30:39,694 [Worker-30: Launching WindowHandling] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 17:53:16,406 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:53:16,545 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 17:53:16,550 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 17:53:16,552 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 18:05:22,408 [Worker-40: Launching MouseHovering] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 18:05:22,413 [Worker-40: Launching MouseHovering] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 18:05:22,419 [Worker-40: Launching MouseHovering] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 18:05:22,421 [Worker-40: Launching MouseHovering] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-07 18:16:30,742 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 18:16:30,759 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 18:16:30,762 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-07 18:16:30,768 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-08 10:21:15,839 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-11 17:23:21,997 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-11 18:00:17,802 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-11 18:00:17,817 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-11 18:00:17,826 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-11 18:00:17,829 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-11 18:26:38,116 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-11 18:26:38,127 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-11 18:26:38,132 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-11 18:26:38,135 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 10:47:44,301 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-21 11:08:11,966 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:08:12,012 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:08:12,021 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:08:12,027 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:08:31,037 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:08:31,039 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:08:31,044 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:08:31,046 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:12:42,348 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:12:42,364 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:12:42,548 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:12:42,559 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:29:09,444 [Worker-30: Launching DragAndDrop] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:29:09,607 [Worker-30: Launching DragAndDrop] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:29:09,618 [Worker-30: Launching DragAndDrop] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:29:09,622 [Worker-30: Launching DragAndDrop] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:31:55,068 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:31:55,078 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:31:55,087 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:31:55,090 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:43:30,355 [Worker-36: Launching ResizeDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:43:30,396 [Worker-36: Launching ResizeDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:43:30,409 [Worker-36: Launching ResizeDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:43:30,411 [Worker-36: Launching ResizeDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:48:25,422 [Worker-40: Launching ResizeDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:48:25,427 [Worker-40: Launching ResizeDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:48:25,435 [Worker-40: Launching ResizeDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:48:25,437 [Worker-40: Launching ResizeDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:50:52,741 [Worker-43: Launching ResizeDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:50:52,745 [Worker-43: Launching ResizeDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:50:52,754 [Worker-43: Launching ResizeDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:50:52,766 [Worker-43: Launching ResizeDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 11:53:07,894 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-21 12:02:17,197 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:02:17,254 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 12:02:17,265 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:02:17,268 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 12:03:50,552 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:03:50,615 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 12:03:50,620 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:03:50,622 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 12:14:30,765 [Worker-19: Launching SliderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:14:30,980 [Worker-19: Launching SliderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 12:14:30,987 [Worker-19: Launching SliderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:14:30,990 [Worker-19: Launching SliderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 12:17:35,945 [Worker-19: Launching SliderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:17:35,948 [Worker-19: Launching SliderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 12:17:35,957 [Worker-19: Launching SliderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:17:35,962 [Worker-19: Launching SliderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 12:26:55,960 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:26:55,967 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 12:26:55,971 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:26:55,973 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 12:35:25,948 [Worker-26: Launching RightClick] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:35:25,951 [Worker-26: Launching RightClick] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 12:35:25,957 [Worker-26: Launching RightClick] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:35:25,961 [Worker-26: Launching RightClick] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 18:40:57,734 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-21 18:42:20,835 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 18:42:20,849 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 18:42:20,877 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 18:42:20,880 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 19:10:54,188 [Worker-1: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:10:54,210 [Worker-1: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 19:10:54,286 [Worker-1: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:10:54,289 [Worker-1: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 19:39:58,422 [Worker-28: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:39:58,443 [Worker-28: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 19:39:58,450 [Worker-28: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:39:58,453 [Worker-28: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 19:45:25,851 [Worker-24: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:45:25,860 [Worker-24: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 19:45:25,867 [Worker-24: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:45:25,870 [Worker-24: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 19:47:17,960 [Worker-25: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:47:17,984 [Worker-25: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 19:47:18,013 [Worker-25: Launching KeyboardEventsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 19:47:18,020 [Worker-25: Launching KeyboardEventsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-21 22:20:04,687 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-22 00:02:22,744 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-22 00:02:22,773 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-22 00:02:22,781 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-22 00:02:22,784 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-22 00:09:22,986 [Worker-28: Launching ImplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-22 00:09:22,994 [Worker-28: Launching ImplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-22 00:09:22,999 [Worker-28: Launching ImplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-22 00:09:23,006 [Worker-28: Launching ImplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-22 00:13:28,081 [Worker-27: Launching ImplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-22 00:13:28,337 [Worker-27: Launching ImplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-22 00:13:28,356 [Worker-27: Launching ImplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-22 00:13:28,362 [Worker-27: Launching ImplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 11:38:44,708 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-23 11:47:43,931 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 11:47:44,003 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 11:47:44,023 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 11:47:44,027 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 11:49:26,497 [Worker-15: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 11:49:26,503 [Worker-15: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 11:49:26,513 [Worker-15: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 11:49:26,515 [Worker-15: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:02:38,884 [Worker-15: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:02:38,890 [Worker-15: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:02:38,894 [Worker-15: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:02:38,896 [Worker-15: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:05:32,998 [Worker-17: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:05:33,000 [Worker-17: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:05:33,005 [Worker-17: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:05:33,007 [Worker-17: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:07:52,942 [Worker-18: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:07:52,947 [Worker-18: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:07:52,957 [Worker-18: Launching ExplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:07:52,984 [Worker-18: Launching ExplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:13:10,862 [Worker-17: Launching ImplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:13:10,875 [Worker-17: Launching ImplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:13:10,887 [Worker-17: Launching ImplicitWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:13:10,889 [Worker-17: Launching ImplicitWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:26:27,450 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:26:27,461 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:26:27,472 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:26:27,476 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:38:26,293 [Worker-30: Launching FluentWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:38:26,296 [Worker-30: Launching FluentWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:38:26,301 [Worker-30: Launching FluentWait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:38:26,305 [Worker-30: Launching FluentWait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:50:27,951 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:50:27,955 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:50:27,962 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:50:27,964 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:53:21,502 [Worker-35: Launching wait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:53:21,504 [Worker-35: Launching wait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:53:21,508 [Worker-35: Launching wait] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:53:21,511 [Worker-35: Launching wait] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:53:58,594 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:53:58,598 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:53:58,602 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:53:58,607 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 12:54:27,919 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:54:27,920 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 12:54:27,924 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 12:54:27,925 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 17:42:04,021 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-23 17:57:41,327 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 17:57:41,393 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 17:57:41,402 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 17:57:41,406 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 18:35:14,919 [Worker-23: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:35:14,977 [Worker-23: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 18:35:14,987 [Worker-23: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:35:14,991 [Worker-23: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 18:39:46,541 [Worker-20: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:39:47,155 [Worker-20: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 18:39:47,198 [Worker-20: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:39:47,217 [Worker-20: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 18:44:20,493 [Worker-20: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:44:20,578 [Worker-20: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 18:44:20,588 [Worker-20: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:44:20,594 [Worker-20: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 18:52:03,656 [Worker-32: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:52:03,809 [Worker-32: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 18:52:03,849 [Worker-32: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 18:52:03,870 [Worker-32: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:26:11,181 [Worker-44: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:26:11,268 [Worker-44: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:26:11,285 [Worker-44: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:26:11,288 [Worker-44: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:27:47,289 [Worker-41: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:27:47,342 [Worker-41: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:27:47,359 [Worker-41: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:27:47,360 [Worker-41: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:30:48,850 [Worker-42: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:30:48,933 [Worker-42: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:30:48,939 [Worker-42: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:30:48,947 [Worker-42: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:33:01,023 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:33:01,036 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:33:01,047 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:33:01,049 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:33:51,253 [Worker-47: Launching WebElement2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:33:51,256 [Worker-47: Launching WebElement2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:33:51,262 [Worker-47: Launching WebElement2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:33:51,264 [Worker-47: Launching WebElement2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:35:25,380 [Worker-45: Launching WebElement2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:35:25,387 [Worker-45: Launching WebElement2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:35:25,393 [Worker-45: Launching WebElement2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:35:25,397 [Worker-45: Launching WebElement2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:36:42,915 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:36:42,919 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:36:42,924 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:36:42,926 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:43:13,485 [Worker-52: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:43:13,610 [Worker-52: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:43:13,630 [Worker-52: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:43:13,637 [Worker-52: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:46:43,993 [Worker-50: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:46:44,027 [Worker-50: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:46:44,030 [Worker-50: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:46:44,034 [Worker-50: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:49:43,822 [Worker-53: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:49:43,836 [Worker-53: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:49:43,841 [Worker-53: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:49:43,975 [Worker-53: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:53:02,770 [Worker-55: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:53:02,806 [Worker-55: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:53:02,811 [Worker-55: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:53:02,813 [Worker-55: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:55:11,749 [Worker-59: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:55:11,772 [Worker-59: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:55:11,778 [Worker-59: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:55:11,783 [Worker-59: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:56:33,877 [Worker-53: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:56:34,013 [Worker-53: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:56:34,025 [Worker-53: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:56:34,035 [Worker-53: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 19:58:11,585 [Worker-60: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:58:11,837 [Worker-60: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 19:58:11,862 [Worker-60: Launching WebTableDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 19:58:11,877 [Worker-60: Launching WebTableDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-23 23:34:32,445 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-23 23:34:43,232 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 23:34:43,249 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-23 23:34:43,261 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-23 23:34:43,264 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 10:47:40,189 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-24 10:49:46,702 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 10:49:46,715 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 10:49:46,724 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 10:49:46,728 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:16:36,049 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Testing:Seleniumlearning:0.0.1-SNAPSHOT @ C:\eclipse_workspace\Seleniumlearning\pom.xml.
+2025-02-24 11:16:37,802 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.18.0/commons-io-2.18.0.pom
+2025-02-24 11:16:37,894 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.18.0/commons-io-2.18.0.pom
+2025-02-24 11:16:37,929 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/78/commons-parent-78.pom
+2025-02-24 11:16:38,012 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/78/commons-parent-78.pom
+2025-02-24 11:16:38,050 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/33/apache-33.pom
+2025-02-24 11:16:38,103 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/33/apache-33.pom
+2025-02-24 11:16:38,146 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.11.2/junit-bom-5.11.2.pom
+2025-02-24 11:16:38,189 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.11.2/junit-bom-5.11.2.pom
+2025-02-24 11:16:38,523 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
+2025-02-24 11:16:38,665 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
+2025-02-24 11:16:40,206 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:16:40,256 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:16:40,267 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:16:40,270 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:16:40,476 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.18.0/commons-io-2.18.0-sources.jar
+2025-02-24 11:16:40,659 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.18.0/commons-io-2.18.0-sources.jar
+2025-02-24 11:16:40,671 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.18.0
+2025-02-24 11:16:49,097 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:16:49,101 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:16:49,110 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:16:49,112 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:25:53,990 [Worker-22: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:25:54,014 [Worker-22: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:25:54,020 [Worker-22: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:25:54,022 [Worker-22: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:29:24,130 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:29:24,949 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:29:24,967 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:29:24,969 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:42:22,345 [Worker-22: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:42:22,547 [Worker-22: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:42:22,558 [Worker-22: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:42:22,569 [Worker-22: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:49:26,943 [Worker-27: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:49:26,950 [Worker-27: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:49:26,953 [Worker-27: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:49:26,957 [Worker-27: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:53:08,372 [Worker-27: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:53:08,764 [Worker-27: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:53:08,775 [Worker-27: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:53:08,779 [Worker-27: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:54:21,734 [Worker-33: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:54:21,738 [Worker-33: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:54:21,742 [Worker-33: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:54:21,748 [Worker-33: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:56:41,290 [Worker-36: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:56:41,292 [Worker-36: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:56:41,301 [Worker-36: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:56:41,303 [Worker-36: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 11:58:33,729 [Worker-37: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:58:33,738 [Worker-37: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 11:58:33,747 [Worker-37: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 11:58:33,749 [Worker-37: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:01:01,357 [Worker-38: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:01:01,362 [Worker-38: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:01:01,371 [Worker-38: Launching Screenshot] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:01:01,373 [Worker-38: Launching Screenshot] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:01:50,139 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:01:50,142 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:01:50,145 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:01:50,147 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:10:04,417 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:10:04,534 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:10:04,540 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:10:04,542 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:37:18,943 [Worker-50: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:37:18,953 [Worker-50: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:37:19,380 [Worker-50: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:37:19,382 [Worker-50: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:40:48,690 [Worker-54: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:40:48,700 [Worker-54: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:40:48,704 [Worker-54: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:40:48,711 [Worker-54: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:42:36,471 [Worker-53: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:42:36,597 [Worker-53: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:42:36,606 [Worker-53: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:42:36,616 [Worker-53: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 12:53:15,471 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:53:15,646 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 12:53:15,657 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 12:53:15,660 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 16:16:47,762 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-24 16:57:47,196 [Worker-16: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 16:57:47,225 [Worker-16: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 16:57:47,235 [Worker-16: Launching AuthenticationPopUp] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 16:57:47,238 [Worker-16: Launching AuthenticationPopUp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:31:08,336 [Worker-26: Creating project "readwritefile"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tester.com:readwritefile:0.0.1-SNAPSHOT @ C:\eclipse_workspace\readwritefile\pom.xml.
+2025-02-24 17:31:10,581 [Worker-26: Creating project "readwritefile"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /readwritefile/src/main/java
+2025-02-24 17:31:10,583 [Worker-26: Creating project "readwritefile"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /readwritefile/src/main/resources
+2025-02-24 17:31:10,584 [Worker-26: Creating project "readwritefile"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /readwritefile/src/test/java
+2025-02-24 17:31:10,585 [Worker-26: Creating project "readwritefile"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /readwritefile/src/test/resources
+2025-02-24 17:31:12,866 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:31:12,868 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 17:31:12,873 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:31:12,875 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:31:45,484 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:31:45,500 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-24 17:31:45,536 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:31:45,547 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:32:52,603 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:32:52,620 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 17:32:52,624 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:32:52,630 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:34:33,341 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:34:33,348 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-24 17:34:33,353 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:34:33,357 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:36:09,716 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:36:09,723 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 17:36:09,730 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:36:09,733 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:37:35,581 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:37:35,584 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-24 17:37:35,591 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:37:35,594 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 17:52:52,761 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:52:52,882 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 17:52:52,897 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 17:52:52,918 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 18:48:53,371 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-24 18:54:17,245 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-24 19:05:24,684 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Testing:Seleniumlearning:0.0.1-SNAPSHOT @ C:\eclipse_workspace\Seleniumlearning\pom.xml.
+2025-02-24 19:05:29,648 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.11.0/testng-7.11.0.pom
+2025-02-24 19:05:29,780 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.11.0/testng-7.11.0.pom
+2025-02-24 19:05:29,885 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.pom
+2025-02-24 19:05:29,995 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.pom
+2025-02-24 19:05:30,030 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.16/slf4j-parent-2.0.16.pom
+2025-02-24 19:05:30,234 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.16/slf4j-parent-2.0.16.pom
+2025-02-24 19:05:30,287 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-bom/2.0.16/slf4j-bom-2.0.16.pom
+2025-02-24 19:05:30,713 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-bom/2.0.16/slf4j-bom-2.0.16.pom
+2025-02-24 19:05:30,771 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jcommander/jcommander/1.83/jcommander-1.83.pom
+2025-02-24 19:05:30,922 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jcommander/jcommander/1.83/jcommander-1.83.pom
+2025-02-24 19:05:31,211 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.7.1/jquery-3.7.1.pom
+2025-02-24 19:05:31,459 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.7.1/jquery-3.7.1.pom
+2025-02-24 19:05:32,012 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.11.0/testng-7.11.0.jar
+2025-02-24 19:05:32,251 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.11.0/testng-7.11.0.jar
+2025-02-24 19:05:32,281 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jcommander/jcommander/1.83/jcommander-1.83.jar
+2025-02-24 19:05:32,357 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.7.1/jquery-3.7.1.jar
+2025-02-24 19:05:32,366 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jcommander/jcommander/1.83/jcommander-1.83.jar
+2025-02-24 19:05:32,637 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.7.1/jquery-3.7.1.jar
+2025-02-24 19:05:38,303 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.11.0/testng-7.11.0-sources.jar
+2025-02-24 19:05:38,432 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:05:38,505 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.11.0/testng-7.11.0-sources.jar
+2025-02-24 19:05:38,512 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.11.0
+2025-02-24 19:05:38,553 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:05:38,562 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:05:38,564 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:05:38,623 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jcommander/jcommander/1.83/jcommander-1.83-sources.jar
+2025-02-24 19:05:38,726 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jcommander/jcommander/1.83/jcommander-1.83-sources.jar
+2025-02-24 19:05:38,732 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jcommander:jcommander:1.83
+2025-02-24 19:05:38,812 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.7.1/jquery-3.7.1-sources.jar
+2025-02-24 19:05:39,009 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.7.1/jquery-3.7.1-sources.jar
+2025-02-24 19:05:39,017 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.7.1
+2025-02-24 19:05:45,683 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:05:45,685 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:05:45,693 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:05:45,696 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:05:46,238 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:05:46,244 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-02-24 19:05:46,311 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:05:46,313 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:23:47,344 [Worker-16: Creating project "webportal"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tester.com:webportal:0.0.1-SNAPSHOT @ C:\eclipse_workspace\webportal\pom.xml.
+2025-02-24 19:23:51,144 [Worker-16: Creating project "webportal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webportal/src/main/java
+2025-02-24 19:23:51,153 [Worker-16: Creating project "webportal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webportal/src/main/resources
+2025-02-24 19:23:51,158 [Worker-16: Creating project "webportal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webportal/src/test/java
+2025-02-24 19:23:51,159 [Worker-16: Creating project "webportal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webportal/src/test/resources
+2025-02-24 19:23:53,743 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:23:53,775 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:23:53,796 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:23:53,801 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:26:13,417 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tester.com:webportal:0.0.1-SNAPSHOT @ C:\eclipse_workspace\webportal\pom.xml.
+2025-02-24 19:26:13,707 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar
+2025-02-24 19:26:13,842 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar
+2025-02-24 19:26:14,109 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:26:14,126 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:26:14,131 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:26:14,133 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:26:15,017 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16-sources.jar
+2025-02-24 19:26:15,128 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16-sources.jar
+2025-02-24 19:26:15,139 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.16
+2025-02-24 19:26:15,974 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:26:15,975 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:26:15,998 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:26:16,001 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:28:06,313 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:28:06,325 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:28:06,330 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:28:06,335 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-24 19:28:59,409 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:28:59,411 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-24 19:28:59,416 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-24 19:28:59,418 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-25 16:28:54,335 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-25 16:28:56,674 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-02-26 11:22:08,983 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-26 11:23:45,239 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:23:45,256 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 11:23:45,266 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:23:45,268 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 11:23:49,535 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:23:49,537 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-02-26 11:23:49,602 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:23:49,606 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 11:23:49,861 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:23:49,863 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 11:23:49,868 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:23:49,870 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 11:25:35,572 [Worker-13: Launching LoginTest.login] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:25:35,578 [Worker-13: Launching LoginTest.login] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 11:25:35,586 [Worker-13: Launching LoginTest.login] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:25:35,597 [Worker-13: Launching LoginTest.login] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 11:28:52,895 [Worker-4: Launching LoginTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:28:52,898 [Worker-4: Launching LoginTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 11:28:52,906 [Worker-4: Launching LoginTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:28:52,908 [Worker-4: Launching LoginTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 11:30:17,834 [Worker-12: Launching LoginTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:30:17,841 [Worker-12: Launching LoginTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 11:30:17,848 [Worker-12: Launching LoginTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 11:30:17,857 [Worker-12: Launching LoginTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:06:56,001 [Worker-21: Launching LoginTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:06:56,009 [Worker-21: Launching LoginTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 12:06:56,016 [Worker-21: Launching LoginTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:06:56,018 [Worker-21: Launching LoginTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:17:21,385 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:17:21,526 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 12:17:21,547 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:17:21,550 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:17:34,808 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:17:34,813 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 12:17:34,817 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:17:34,819 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:33:35,741 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tester.com:webportal:0.0.1-SNAPSHOT @ C:\eclipse_workspace\webportal\pom.xml.
+2025-02-26 12:33:37,945 [Worker-31: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-26 12:33:38,507 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:33:38,510 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 12:33:38,517 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:33:38,520 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:33:40,408 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tester.com:webportal:0.0.1-SNAPSHOT @ C:\eclipse_workspace\webportal\pom.xml.
+2025-02-26 12:33:40,839 [Worker-31: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-26 12:33:41,031 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:33:41,032 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 12:33:41,036 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:33:41,038 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:48:17,839 [Worker-36: Launching VerifyTitleTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:48:17,854 [Worker-36: Launching VerifyTitleTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 12:48:17,861 [Worker-36: Launching VerifyTitleTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 12:48:17,863 [Worker-36: Launching VerifyTitleTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 12:48:18,193 [Worker-36: Launching VerifyTitleTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 12:48:18,326 [Worker-36: Launching VerifyTitleTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 12:48:18,450 [Worker-36: Launching VerifyTitleTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 18:30:45,131 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-26 18:39:04,180 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-26 18:39:05,846 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:39:05,876 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 18:39:05,886 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:39:05,889 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 18:39:19,192 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:39:19,195 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 18:39:19,208 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:39:19,210 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 18:40:09,180 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:40:09,188 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 18:40:09,211 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:40:09,220 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 18:54:03,708 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:54:03,713 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 18:54:03,720 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 18:54:03,722 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:03:43,669 [Worker-23: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:03:43,687 [Worker-23: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:03:43,693 [Worker-23: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:03:43,701 [Worker-23: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:03:44,737 [Worker-23: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:03:44,937 [Worker-23: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:03:45,131 [Worker-23: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:08:19,143 [Worker-29: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:08:19,146 [Worker-29: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:08:19,150 [Worker-29: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:08:19,153 [Worker-29: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:08:19,470 [Worker-29: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:08:19,665 [Worker-29: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:08:19,850 [Worker-29: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:09:03,626 [Worker-23: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:09:03,865 [Worker-23: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:09:03,963 [Worker-23: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:12:35,860 [Worker-32: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:12:35,998 [Worker-32: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:12:36,007 [Worker-32: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:12:36,008 [Worker-32: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:12:36,430 [Worker-32: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:12:36,814 [Worker-32: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:12:36,956 [Worker-32: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:14:16,711 [Worker-35: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:14:16,724 [Worker-35: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:14:16,733 [Worker-35: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:14:16,736 [Worker-35: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:14:17,055 [Worker-35: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:14:17,288 [Worker-35: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:14:17,637 [Worker-35: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:18:18,914 [Worker-33: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:18:18,919 [Worker-33: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:18:18,928 [Worker-33: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:18:18,930 [Worker-33: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:18:19,238 [Worker-33: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:18:19,451 [Worker-33: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:18:19,617 [Worker-33: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:20:09,131 [Worker-40: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:20:09,148 [Worker-40: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:20:09,166 [Worker-40: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:20:09,168 [Worker-40: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:20:09,434 [Worker-40: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:20:09,630 [Worker-40: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:20:09,783 [Worker-40: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:21:32,268 [Worker-41: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:21:32,274 [Worker-41: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 19:21:32,278 [Worker-41: Launching VerifyTextAndTitle] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-26 19:21:32,280 [Worker-41: Launching VerifyTextAndTitle] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-26 19:21:32,598 [Worker-41: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:21:32,777 [Worker-41: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-26 19:21:32,933 [Worker-41: Launching VerifyTextAndTitle] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:34:41,243 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-27 11:34:43,797 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-02-27 11:42:31,914 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-27 11:42:32,518 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:42:32,541 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 11:42:32,551 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:42:32,554 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 11:49:40,381 [Worker-14: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:49:40,386 [Worker-14: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 11:49:40,392 [Worker-14: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:49:40,395 [Worker-14: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 11:49:40,915 [Worker-14: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:49:41,209 [Worker-14: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:49:41,363 [Worker-14: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:49:49,224 [Worker-17: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:49:49,444 [Worker-17: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:49:49,645 [Worker-17: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:50:47,780 [Worker-15: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:50:48,009 [Worker-15: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:50:48,156 [Worker-15: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:54:05,683 [Worker-19: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:54:05,747 [Worker-19: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 11:54:05,759 [Worker-19: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:54:05,763 [Worker-19: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 11:54:06,361 [Worker-19: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:54:06,614 [Worker-19: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:54:06,808 [Worker-19: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 11:59:54,543 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:59:54,545 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 11:59:54,550 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 11:59:54,552 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 12:16:10,443 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 12:16:10,470 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 12:16:10,476 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 12:16:10,478 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 12:34:13,120 [Worker-29: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 12:34:13,132 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 12:34:13,136 [Worker-29: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 12:34:13,138 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 12:34:13,622 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:34:13,783 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:34:13,897 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:35:07,424 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:35:07,551 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:35:07,666 [Worker-29: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:38:27,484 [Worker-26: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 12:38:27,488 [Worker-26: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 12:38:27,503 [Worker-26: Launching VerifyTextAndTitle2] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 12:38:27,505 [Worker-26: Launching VerifyTextAndTitle2] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 12:38:27,955 [Worker-26: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:38:28,152 [Worker-26: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:38:28,315 [Worker-26: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:38:58,302 [Worker-33: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:38:58,414 [Worker-33: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 12:38:58,522 [Worker-33: Launching VerifyTextAndTitle2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:33:03,971 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-27 17:37:46,483 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-27 17:37:50,341 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:37:50,357 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:37:50,368 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:37:50,371 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:39:29,995 [Worker-18: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:39:30,220 [Worker-18: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:39:30,387 [Worker-18: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:41:59,683 [Worker-20: Launching webportal_testng.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:41:59,696 [Worker-20: Launching webportal_testng.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:41:59,706 [Worker-20: Launching webportal_testng.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:41:59,713 [Worker-20: Launching webportal_testng.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:42:00,163 [Worker-20: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:42:00,447 [Worker-20: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:42:00,626 [Worker-20: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:46:20,636 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:46:20,793 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:46:20,802 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:46:20,804 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:46:48,410 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:46:48,418 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:46:48,422 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:46:48,433 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:47:11,890 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:47:11,892 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:47:11,896 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:47:11,903 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:48:34,547 [Worker-26: Launching webportal_regression.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:48:34,551 [Worker-26: Launching webportal_regression.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:48:34,556 [Worker-26: Launching webportal_regression.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:48:34,558 [Worker-26: Launching webportal_regression.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:48:35,101 [Worker-26: Launching webportal_regression.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:48:35,272 [Worker-26: Launching webportal_regression.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:48:35,394 [Worker-26: Launching webportal_regression.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 17:57:43,375 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-27 17:58:13,614 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-27 17:58:15,963 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:58:15,987 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:58:16,001 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:58:16,004 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 17:59:12,817 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:59:12,827 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 17:59:12,837 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 17:59:12,839 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:00:26,928 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:00:26,933 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:00:26,939 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:00:26,942 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:01:05,447 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:01:05,450 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:01:05,466 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:01:05,468 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:07:06,866 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:07:06,914 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:07:06,929 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:07:06,937 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:14:28,844 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:14:28,849 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:14:28,858 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:14:28,861 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:15:37,170 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:15:37,176 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:15:37,181 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:15:37,187 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:15:38,138 [Worker-15: Launching webportal_mastertestng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:15:38,491 [Worker-15: Launching webportal_mastertestng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:15:38,594 [Worker-15: Launching webportal_mastertestng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:21:30,969 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:21:30,974 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:21:30,986 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:21:30,989 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:30:18,389 [Worker-24: Launching webportal_regression.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:30:18,610 [Worker-24: Launching webportal_regression.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:30:18,730 [Worker-24: Launching webportal_regression.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:31:18,898 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:31:18,924 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:31:18,941 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:31:18,943 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:36:19,933 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:36:19,938 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:36:19,944 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:36:19,946 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:43:25,842 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:43:25,854 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:43:25,857 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:43:25,866 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 18:43:54,960 [Worker-45: Launching webportal_mastertestng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:43:55,103 [Worker-45: Launching webportal_mastertestng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:43:55,245 [Worker-45: Launching webportal_mastertestng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 18:44:39,274 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:44:39,280 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 18:44:39,284 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 18:44:39,288 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 19:17:59,342 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:17:59,375 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 19:17:59,390 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:17:59,391 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 19:40:38,342 [Worker-54: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:40:38,423 [Worker-54: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 19:40:38,431 [Worker-54: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:40:38,435 [Worker-54: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 19:40:38,803 [Worker-54: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:40:38,960 [Worker-54: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:40:39,144 [Worker-54: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:43:25,638 [Worker-58: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:43:25,646 [Worker-58: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 19:43:25,652 [Worker-58: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:43:25,654 [Worker-58: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 19:43:25,958 [Worker-58: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:43:26,230 [Worker-58: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:43:26,430 [Worker-58: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:45:11,021 [Worker-58: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:45:11,025 [Worker-58: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 19:45:11,029 [Worker-58: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:45:11,031 [Worker-58: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 19:45:11,417 [Worker-58: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:45:11,654 [Worker-58: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:45:11,895 [Worker-58: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:46:15,552 [Worker-53: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:46:15,555 [Worker-53: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-27 19:46:15,561 [Worker-53: Launching SkipTestDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-27 19:46:15,562 [Worker-53: Launching SkipTestDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-27 19:46:15,895 [Worker-53: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:46:16,216 [Worker-53: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-27 19:46:16,383 [Worker-53: Launching SkipTestDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 10:48:39,101 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-28 12:34:55,057 [Worker-24: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-28 12:34:57,445 [Worker-24: Launching GroupDemoTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 12:34:57,458 [Worker-24: Launching GroupDemoTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 12:34:57,466 [Worker-24: Launching GroupDemoTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 12:34:57,468 [Worker-24: Launching GroupDemoTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 12:35:00,802 [Worker-24: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:35:01,318 [Worker-24: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:35:01,507 [Worker-24: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:35:03,623 [Worker-31: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:35:03,878 [Worker-31: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:35:04,263 [Worker-31: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:51:05,867 [Worker-42: Launching GroupDemoTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 12:51:05,878 [Worker-42: Launching GroupDemoTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 12:51:05,886 [Worker-42: Launching GroupDemoTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 12:51:05,888 [Worker-42: Launching GroupDemoTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 12:51:06,260 [Worker-42: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:51:06,504 [Worker-42: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 12:51:06,643 [Worker-42: Launching GroupDemoTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 16:56:59,144 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-28 17:39:03,422 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-02-28 17:39:04,286 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:39:04,311 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 17:39:04,319 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:39:04,320 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 17:39:24,931 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:39:24,952 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 17:39:24,982 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:39:24,986 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 17:42:49,692 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:42:49,705 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 17:42:49,712 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:42:49,714 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 17:50:47,853 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:50:47,857 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 17:50:47,862 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:50:47,865 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 17:51:46,129 [Worker-22: Launching webportal_testng1.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:51:46,132 [Worker-22: Launching webportal_testng1.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 17:51:46,137 [Worker-22: Launching webportal_testng1.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:51:46,139 [Worker-22: Launching webportal_testng1.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 17:51:47,166 [Worker-22: Launching webportal_testng1.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 17:51:47,379 [Worker-22: Launching webportal_testng1.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 17:51:47,497 [Worker-22: Launching webportal_testng1.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 17:58:30,985 [Worker-22: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 17:58:31,115 [Worker-22: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 17:58:31,237 [Worker-22: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 17:59:12,223 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:59:12,235 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 17:59:12,248 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 17:59:12,252 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:02:57,505 [Worker-34: Launching webportal_testng.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:02:57,515 [Worker-34: Launching webportal_testng.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:02:57,519 [Worker-34: Launching webportal_testng.xml] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:02:57,522 [Worker-34: Launching webportal_testng.xml] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:02:57,857 [Worker-34: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:02:58,022 [Worker-34: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:02:58,196 [Worker-34: Launching webportal_testng.xml] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:34:18,719 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:34:18,734 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:34:18,741 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:34:18,743 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:44:54,835 [Worker-44: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:44:54,844 [Worker-44: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:44:54,848 [Worker-44: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:44:54,850 [Worker-44: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:44:55,156 [Worker-44: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:44:55,355 [Worker-44: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:44:55,481 [Worker-44: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:46:39,420 [Worker-46: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:46:39,424 [Worker-46: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:46:39,430 [Worker-46: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:46:39,433 [Worker-46: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:46:39,716 [Worker-46: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:46:39,935 [Worker-46: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:46:40,115 [Worker-46: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:50:37,641 [Worker-49: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:50:37,644 [Worker-49: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:50:37,651 [Worker-49: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:50:37,654 [Worker-49: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:50:37,986 [Worker-49: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:50:38,189 [Worker-49: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:50:38,430 [Worker-49: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:51:02,907 [Worker-42: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:51:02,913 [Worker-42: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:51:02,918 [Worker-42: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:51:02,920 [Worker-42: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:51:03,153 [Worker-42: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:51:03,303 [Worker-42: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:51:03,410 [Worker-42: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:56:03,506 [Worker-45: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:56:03,509 [Worker-45: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:56:03,512 [Worker-45: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:56:03,518 [Worker-45: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:56:03,802 [Worker-45: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:56:03,977 [Worker-45: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:56:04,087 [Worker-45: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:59:33,728 [Worker-47: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:59:33,732 [Worker-47: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 18:59:33,737 [Worker-47: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 18:59:33,739 [Worker-47: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 18:59:33,961 [Worker-47: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:59:34,224 [Worker-47: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 18:59:34,326 [Worker-47: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:00:29,149 [Worker-49: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:00:29,152 [Worker-49: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 19:00:29,156 [Worker-49: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:00:29,158 [Worker-49: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 19:00:29,689 [Worker-49: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:00:29,932 [Worker-49: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:00:30,103 [Worker-49: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:03:16,066 [Worker-42: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:03:16,072 [Worker-42: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 19:03:16,078 [Worker-42: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:03:16,082 [Worker-42: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 19:03:16,475 [Worker-42: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:03:16,638 [Worker-42: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:03:16,765 [Worker-42: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:06:13,641 [Worker-56: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:06:13,644 [Worker-56: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 19:06:13,648 [Worker-56: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:06:13,650 [Worker-56: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 19:06:13,956 [Worker-56: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:06:14,125 [Worker-56: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:06:14,234 [Worker-56: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:07:57,980 [Worker-56: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:07:57,994 [Worker-56: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-28 19:07:58,003 [Worker-56: Launching DataProviderDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-28 19:07:58,008 [Worker-56: Launching DataProviderDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-02-28 19:07:58,302 [Worker-56: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:07:58,487 [Worker-56: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-02-28 19:07:58,752 [Worker-56: Launching DataProviderDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 17:04:14,534 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-01 17:04:16,883 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-03-01 17:36:23,993 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier  to /Seleniumlearning/target/classes
+2025-03-01 17:36:29,241 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 17:36:29,256 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 17:36:29,263 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 17:36:29,264 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 17:50:32,236 [Worker-25: Launching LoginRealScenarioTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 17:50:32,247 [Worker-25: Launching LoginRealScenarioTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 17:50:32,253 [Worker-25: Launching LoginRealScenarioTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 17:50:32,255 [Worker-25: Launching LoginRealScenarioTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 17:50:32,740 [Worker-25: Launching LoginRealScenarioTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 17:50:33,177 [Worker-25: Launching LoginRealScenarioTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 17:50:33,318 [Worker-25: Launching LoginRealScenarioTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 17:53:17,674 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 17:53:17,680 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 17:53:17,726 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 17:53:17,736 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 18:24:10,309 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:24:10,419 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 18:24:10,422 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:24:10,428 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 18:27:36,475 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:27:36,477 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 18:27:36,482 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:27:36,484 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 18:29:43,537 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:29:43,540 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 18:29:43,545 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:29:43,551 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 18:32:30,685 [Worker-38: Launching DataProvideFetchData] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:32:30,688 [Worker-38: Launching DataProvideFetchData] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 18:32:30,693 [Worker-38: Launching DataProvideFetchData] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:32:30,695 [Worker-38: Launching DataProvideFetchData] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 18:32:31,376 [Worker-38: Launching DataProvideFetchData] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 18:32:31,522 [Worker-38: Launching DataProvideFetchData] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 18:32:31,664 [Worker-38: Launching DataProvideFetchData] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Seleniumlearning: Testing:Seleniumlearning:0.0.1-SNAPSHOT with classifier null to /Seleniumlearning/target/classes
+2025-03-01 18:48:03,222 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:48:03,245 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 18:48:03,272 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 18:48:03,284 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 19:31:41,321 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 19:31:41,375 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 19:31:41,389 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 19:31:41,399 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 19:38:49,799 [Worker-76: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 19:38:49,804 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 19:38:49,815 [Worker-76: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 19:38:49,818 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 19:38:58,934 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 19:38:58,939 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-01 19:38:58,948 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-01 19:38:58,950 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-01 22:44:33,300 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

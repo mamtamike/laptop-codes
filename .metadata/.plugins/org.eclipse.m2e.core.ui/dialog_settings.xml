@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\eclipse_workspace\Seleniumlearning\pom.xml"/>
 			<item value="C:\eclipse_workspace\SeleniumDemo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -44,11 +45,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="tester.com"/>
 			<item value="Testing"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="webportal"/>
+			<item value="readwritefile"/>
+			<item value="readandwrite"/>
 			<item value="Seleniumlearning"/>
 		</list>
 		<list key="projectNameTemplate">
