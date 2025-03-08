@@ -45,12 +45,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.testing"/>
 			<item value="tester.com"/>
 			<item value="Testing"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="TestAutomationExercise"/>
 			<item value="webportal"/>
 			<item value="readwritefile"/>
 			<item value="readandwrite"/>
