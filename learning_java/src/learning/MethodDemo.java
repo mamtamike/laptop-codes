@@ -8,7 +8,7 @@ public class MethodDemo {
 	md.doLogout();
 	
 	System.out.println(name());
-	     name();
+	    // name();
 		receiveName();
 		
 	}

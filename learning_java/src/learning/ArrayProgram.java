@@ -4,14 +4,17 @@ public class ArrayProgram {
 	public static void main(String[] args) {
 		int [] marks= {2,3,4,5,6,7};
 		for(int i=0; i<marks.length; i++) {
+
 			if(i==4) {
-				break;
+                break;
 			}
 			System.out.println(marks[i]);
 		}
-		for(int element:marks) {
-			System.out.println(element);
-		}
+		System.out.println("length of array is "+marks.length);
+
+//		for(int element:marks) {
+//			System.out.println(element);
+//		}
 	}
 
 }

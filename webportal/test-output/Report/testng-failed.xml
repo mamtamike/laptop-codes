@@ -3,13 +3,14 @@
 <suite name="Failed suite [Report]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="common.Listener2"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
       <class name="UI.TestReport">
         <methods>
-          <include name="LaunchBrowser"/>
           <include name="Test1"/>
+          <include name="LaunchBrowser"/>
           <include name="CloseBrowser"/>
         </methods>
       </class> <!-- UI.TestReport -->

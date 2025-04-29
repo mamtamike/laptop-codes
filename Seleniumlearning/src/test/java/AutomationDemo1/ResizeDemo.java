@@ -20,5 +20,4 @@ public class ResizeDemo {
 		Actions action=new Actions (driver);
 		action.dragAndDropBy(resize,300,100).perform();
 	}
-
 }

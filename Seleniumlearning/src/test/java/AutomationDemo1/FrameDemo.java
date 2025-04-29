@@ -15,7 +15,7 @@ public class FrameDemo {
 		driver.manage().window().maximize();
 		driver.switchTo().frame(0);
 
-		driver.switchTo().frame("iframeResult");
+		//driver.switchTo().frame("iframeResult");
 		WebElement frame1=driver.findElement(By.name("iframeResult"));
 		driver.switchTo().frame("frame1");
 		driver.findElement(By.xpath("//button[@onclick='myFunction()']")).click();

@@ -30,7 +30,9 @@ public class Listners extends TestUtilScreenshot implements ITestListener {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		Reporter.log("<a href=C:\\eclipse_workspace\\webportal\\screenshot\\Mon-Mar-03-11-41-23-IST-2025.png>TestResult</a>");
+//		Reporter.log("<a href=\"C:\\eclipse_workspace\\webportal\\screenshot\\Mon-Mar-03-17-25-03-IST-2025.png\">TestResult</a>");
+		Reporter.log("<a href='file:///C:/eclipse_workspace/webportal/screenshot/Mon-Mar-03-17-25-03-IST-2025.png'  target='_blank'>TestResult</a>");
+		
 	}
 
 	@Override

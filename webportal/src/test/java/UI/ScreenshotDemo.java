@@ -11,7 +11,4 @@ public class ScreenshotDemo extends BaseTest {
 		driver.get("https://www.ebay.com");
 		Assert.assertTrue(false);
 	}
-	
-	
-
 }

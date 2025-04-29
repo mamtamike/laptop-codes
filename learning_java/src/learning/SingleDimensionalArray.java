@@ -18,6 +18,7 @@ public class SingleDimensionalArray {
 //		System.out.println(myIntArray1.length);
 //		
 		int[] myIntArray2 = {10,20,30,40,50};
+		System.out.println(myIntArray2[1]);
 		for(int i=0; i<myIntArray2.length; i++)
 		{
 			System.out.println(myIntArray2[i]);

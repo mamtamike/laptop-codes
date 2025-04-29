@@ -6,7 +6,8 @@ public class DataProviderSetup {
 
 	@DataProvider(name = "create")
 	public Object[][] dataset1() {
-		return new Object[][] { { "username", "password", "test1" }, { "username1", "password1", "test2" },
+		return new Object[][] { { "username", "password", "test1" },
+			     { "username1", "password1", "test2" },
 				{ "username2", "password2", "test3" } };
 
 	}

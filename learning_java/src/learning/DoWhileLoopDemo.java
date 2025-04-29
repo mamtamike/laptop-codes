@@ -11,12 +11,12 @@ public class DoWhileLoopDemo {
 		System.out.println("outside the do loop");
 		
 		
-		while(i>10)
-		{
-			System.out.println(i);
-		}
-			System.out.println("outside the while loop");
-		
+//		while(i>10)
+//		{
+//			System.out.println(i);
+//		}
+//			System.out.println("outside the while loop");
+//		
 			
 	}
 	

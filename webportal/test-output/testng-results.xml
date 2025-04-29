@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="1" failed="1" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-07T12:16:54 IST" name="Default suite" finished-at="2025-03-07T12:16:55 IST" duration-ms="332">
+  <suite started-at="2025-03-19T19:24:11 IST" name="Default suite" finished-at="2025-03-19T19:24:11 IST" duration-ms="133">
     <groups>
     </groups>
-    <test started-at="2025-03-07T12:16:54 IST" name="Default test" finished-at="2025-03-07T12:16:55 IST" duration-ms="332">
+    <test started-at="2025-03-19T19:24:11 IST" name="Default test" finished-at="2025-03-19T19:24:11 IST" duration-ms="133">
       <class name="UI.DependencyTest">
-        <test-method signature="Test3()[pri:0, instance:UI.DependencyTest@54422e18]" started-at="2025-03-07T12:16:55 IST" name="Test3" finished-at="2025-03-07T12:16:55 IST" duration-ms="48" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test3 -->
-        <test-method signature="userRegistration()[pri:0, instance:UI.DependencyTest@54422e18]" started-at="2025-03-07T12:16:55 IST" name="userRegistration" finished-at="2025-03-07T12:16:55 IST" duration-ms="32" status="FAIL">
+        <test-method signature="userRegistration()[pri:0, instance:UI.DependencyTest@202b0582]" started-at="2025-03-19T19:24:11 IST" name="userRegistration" finished-at="2025-03-19T19:24:11 IST" duration-ms="35" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -55,7 +51,41 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userRegistration -->
-        <test-method signature="userSearch()[pri:0, instance:UI.DependencyTest@54422e18]" started-at="2025-03-07T12:16:55 IST" name="userSearch" finished-at="2025-03-07T12:16:55 IST" depends-on-methods="UI.DependencyTest.userRegistration" duration-ms="3" status="PASS">
+        <test-method signature="Test3()[pri:0, instance:UI.DependencyTest@202b0582]" started-at="2025-03-19T19:24:11 IST" name="Test3" finished-at="2025-03-19T19:24:11 IST" depends-on-methods="UI.DependencyTest.userRegistration" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="userSearch()[pri:0, instance:UI.DependencyTest@202b0582]" started-at="2025-03-19T19:24:11 IST" name="userSearch" finished-at="2025-03-19T19:24:11 IST" depends-on-methods="UI.DependencyTest.userRegistration" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method UI.DependencyTest.userSearch() on instance UI.DependencyTest@202b0582 depends on not successfully finished methods 
+[UI.DependencyTest.userRegistration() on instance UI.DependencyTest@202b0582]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method UI.DependencyTest.userSearch() on instance UI.DependencyTest@202b0582 depends on not successfully finished methods 
+[UI.DependencyTest.userRegistration() on instance UI.DependencyTest@202b0582]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userSearch -->

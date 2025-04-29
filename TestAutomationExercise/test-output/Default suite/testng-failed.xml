@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Authentication.Signup">
+      <class name="FunctionalTestScript.CheckoutPage">
         <methods>
-          <include name="signupTest"/>
-          <include name="CloseBrowser"/>
-          <include name="LaunchBrowser"/>
+          <include name="reviewOrder"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- Authentication.Signup -->
+      </class> <!-- FunctionalTestScript.CheckoutPage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

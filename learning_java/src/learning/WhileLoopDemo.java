@@ -1,7 +1,7 @@
 package learning;
 
 public class WhileLoopDemo { //infinite loop
-	public static void main(Concatenation[] args) {
+	public static void main(String[] args) {
 		int i =0;
 		while (i<=9)
 		{

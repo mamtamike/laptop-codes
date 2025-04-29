@@ -11,13 +11,13 @@ public class DependencyTest {
 
 	}
 
-	@Test(dependsOnMethods="userRegistration",alwaysRun=true)
+	@Test(dependsOnMethods="userRegistration")
 	public void userSearch() {
 		System.out.println("test2 execution");
 
 	}
 
-	@Test
+	@Test(dependsOnMethods="userRegistration",alwaysRun=true)
 	public void Test3() {
 		System.out.println("test3 execution");
 

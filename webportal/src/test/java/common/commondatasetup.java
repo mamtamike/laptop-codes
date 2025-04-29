@@ -12,5 +12,4 @@ public class commondatasetup {
 	public void datateardown() {
 		System.out.println("common data cleanup");
 	}
-
 }

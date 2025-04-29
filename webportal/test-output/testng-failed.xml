@@ -5,6 +5,7 @@
     <classes>
       <class name="UI.DependencyTest">
         <methods>
+          <include name="userSearch"/>
           <include name="userRegistration"/>
         </methods>
       </class> <!-- UI.DependencyTest -->

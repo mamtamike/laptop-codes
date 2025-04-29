@@ -6,7 +6,7 @@ public class Operator {
 		int herNumber =9;
 		String str= "hello";
 		int i = -9;
-		boolean bool =!true;
+		boolean bool =!true; //exclamation symbol is called not logical operator and it reverses the result
 		myNumber--;
 		myNumber--;
 		herNumber--;
@@ -17,7 +17,7 @@ public class Operator {
 //		System.out.println(myNumber+herNumber);
 //		System.out.println(myNumber-herNumber);
 //		 
-//		System.out.println(myNumber+str);
+	    System.out.println(myNumber+str);
 		System.out.println(myNumber/herNumber);
 		System.out.println(bool);
 		

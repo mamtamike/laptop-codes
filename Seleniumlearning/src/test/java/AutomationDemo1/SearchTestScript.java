@@ -13,5 +13,4 @@ public class SearchTestScript {
 	driver.findElement(By.tagName("input")).sendKeys("mobile");
 	driver.findElement(By.xpath("//*[@id=\"gh-search-btn\"]/span")).click();
 	}
-
 }
