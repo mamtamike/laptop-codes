@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WorkingWithWebElements {
+	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver=new ChromeDriver();
@@ -15,7 +16,7 @@ public class WorkingWithWebElements {
 		
 		driver.findElement(By.name("input_3.3")).sendKeys("tester");
 		driver.findElement(By.name("input_3.3")).clear();
-		//System.out.println(driver.findElement(By.xpath("//*[@id=\"gform_submit_button_1\"]")).getAttribute("value"));
+		System.out.println(driver.findElement(By.xpath("//*[@id=\"gform_submit_button_1\"]")).getAttribute("value"));
 		System.out.println(driver.findElement(By.xpath("//*[@id=\"gform_submit_button_1\"]")).getSize());
 		System.out.println(driver.findElement(By.xpath("//*[@id=\"gform_submit_button_1\"]")).getCssValue("color"));
 		System.out.println(driver.findElement(By.xpath("//*[@id=\"gform_submit_button_1\"]")).getTagName());

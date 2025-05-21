@@ -17,7 +17,7 @@ public class DragAndDrop {
 		driver.switchTo().frame(frame);
 		
 		WebElement drag = driver.findElement(By.id("draggable"));
-		WebElement drop = driver.findElement(By.id("droppable"));
+		WebElement drop = driver.findElement(By.id("droppable")); 
 		
 		Actions action=new Actions(driver);
 		action.dragAndDrop(drag, drop).perform();

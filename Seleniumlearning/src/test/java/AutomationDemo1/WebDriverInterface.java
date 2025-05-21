@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class WebDriverInterface {
+public class WebDriverInterface {    //this is also called cross browser testing, testing across different browser and check the compatibility
 	
 		public static String browser="chrome"; //external configuration-xls,CSV
 		public static WebDriver driver;

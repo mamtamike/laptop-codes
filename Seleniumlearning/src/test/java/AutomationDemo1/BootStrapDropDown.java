@@ -1,11 +1,8 @@
 package AutomationDemo1;
-
 import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BootStrapDropDown {
@@ -18,7 +15,7 @@ public class BootStrapDropDown {
 		//select single option
 	   // driver.findElement(By.xpath("//input[@value='jQuery']")).click(); //locate by checkbox button and click for single select option
 
-		//capture all the options and size
+	//capture all the options and size
 		
 	List<WebElement> options=driver.findElements(By.xpath("//ul[contains(@class,'multiselect')]//label")); //locate by label for all options in ul list		
 	System.out.println(options.size());
@@ -36,10 +33,13 @@ public class BootStrapDropDown {
 //			System.out.println(op.getText());
 //		}
 		//select multiple options by enhance loop without index and using only texts 
-//		for(WebElement op:options) {
-//			String selectoptions=op.getText();
-//			if(selectoptions.equals("Java")|| selectoptions.equals("Python")||selectoptions.equals("MySQL")){ //if gettext equals to label then click op.click();
-//			}
-		}
+		for(WebElement op:options) {
+			String selectoptions=op.getText();
+         if(selectoptions.equals("Java")|| selectoptions.equals("Python")||selectoptions.equals("MySQL"))
+	         {
+	        	 op.click();
+	         }
 	}
+}
+}
 

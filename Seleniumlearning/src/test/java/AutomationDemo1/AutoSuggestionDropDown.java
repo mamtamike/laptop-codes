@@ -13,27 +13,25 @@ public class AutoSuggestionDropDown {
 	public static void main(String[] args) throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
-		 driver.get("https://www.makemytrip.com/");
-		driver.manage().window().maximize();
-		 driver.findElement(By.xpath("//*[@id=\"SW\"]/div[1]/div[2]/div[2]/div/section/span")).click();
-		driver.findElement(By.xpath("//span[text()='From']")).click();
-		driver.findElement(By.xpath("//input[@placeholder='From']")).sendKeys("Mumbai, India");
-		
-//	   WebElement option=driver.findElement(By.xpath("//input[@placeholder='From']"));
-//	   option.sendKeys("Mumbai,India");
-//		option.sendKeys(Keys.ARROW_DOWN);
-//		option.sendKeys(Keys.ARROW_DOWN);
-//
+//		driver.get("https://www.makemytrip.com/");
+//		driver.manage().window().maximize();
+//		driver.findElement(By.xpath("//*[@id=\"SW\"]/div[1]/div[2]/div[2]/div/section/span")).click();
 //		Thread.sleep(2000);
-//		option.sendKeys(Keys.ENTER);
-//		List<WebElement> list = driver.findElements(By.xpath("//ul[@role='listbox']/li[@id=\"react-autowhatever-1-section-1-item-0\"]/div/div/div/div[1]/div/p"));
+//		driver.findElement(By.xpath("//span[text()='From']")).click();
+//		driver.findElement(By.xpath("//input[@placeholder='From']")).sendKeys("Mumbai, India"); 
+//		
+//				
+//	   //go through drop down list
+//		List<WebElement> list = driver.findElements(By.xpath("//ul[@role='listbox']/li/div/div/div/div[1]/div/p"));
 //	    System.out.println(list.size());
 //		list.get(2).click();
-//		
+//		driver.close();		
 
-//		driver.get("https:www.google.com");
-//		driver.findElement(By.xpath("//input[@type='search']")).sendKeys("selenium");
-//		
+		driver.get("https://www.google.com");
+		driver.manage().window().maximize();
+		driver.findElement(By.xpath("//*[@id=\"stUuGf\"]/div/div[2]/div/div/div/div[2]/div/promo-button-text[1]/div/div")).click();
+        driver.findElement(By.cssSelector("#input")).sendKeys("selenium", Keys.ENTER);
+        driver.quit();
 //		List<WebElement> list = driver.findElements(By.xpath(null));
 //		System.out.println(list.size());
 //		list.get(2).click();

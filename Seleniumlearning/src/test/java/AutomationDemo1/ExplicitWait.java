@@ -24,8 +24,21 @@ public class ExplicitWait {
 		mouse.moveToElement(element).perform();
 		
 		WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(10));
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='vl-flyout-nav']/ul/li[3]/div[2]/div[1]/nav[2]/ul/li[1]/a"))).click();
-	}
+		WebElement element1=wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='vl-flyout-nav']/ul/li[3]/div[2]/div[1]/nav[2]/ul/li[1]/a")));
+		element1.click(); // wait for element to be in DOM and should be visible
+		//other expected conditions
+		WebElement element2=wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id='vl-flyout-nav']/ul/li[3]/div[2]/div[1]/nav[2]/ul/li[1]/a")));
+         element2.click(); //wait for element to be enable to click
+     	WebElement element3=wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@id='vl-flyout-nav']/ul/li[3]/div[2]/div[1]/nav[2]/ul/li[1]/a")));
+        element3.click(); //wait for element to be in DOM need not to be visible
+        boolean element4=wait.until(ExpectedConditions.elementToBeSelected(By.xpath("//*[@id='vl-flyout-nav']/ul/li[3]/div[2]/div[1]/nav[2]/ul/li[1]/a")));
+        //wait for element to select ex- checkbox, dropdown
+    	
+        boolean textPresent = wait.until(ExpectedConditions.textToBePresentInElementLocated(
+        	    By.id("message"), "Success")); //wait until specific text to be appear on a webelement
+    	
+        			
+		}
 	}
 
 

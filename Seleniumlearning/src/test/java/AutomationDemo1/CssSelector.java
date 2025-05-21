@@ -12,8 +12,9 @@ public class CssSelector {
 		driver.get("https://demo.nopcommerce.com");
 		driver.manage().window().maximize();
 		
+		
 		//tag#id
-	//	driver.findElement(By.cssSelector("input#small-searchterms")).sendKeys("tshirt");
+	//driver.findElement(By.cssSelector("input#small-searchterms")).sendKeys("tshirt");
 	   // driver.findElement(By.cssSelector("#small-searchterms")).sendKeys("tshirt");
 	    
 	    //tag.classname
@@ -24,9 +25,5 @@ public class CssSelector {
 	    // driver.findElement(By.cssSelector("input[name='q']")).sendKeys("tshirt");
 	    // driver.findElement(By.cssSelector("[name='q']")).sendKeys("tshirt");
 		
-		
-
-
 	}
-
 }

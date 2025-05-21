@@ -23,9 +23,8 @@ public class WebTableDemo {
 				.findElements(By.xpath("//*[@id=\"home_top_five\"]/div/div[1]/div/div[1]/table/tr"));
 		System.out.println(rowElement.size());
 		List<WebElement> columnElement = driver
-				.findElements(By.xpath("//*[@id=\"home_top_five\"]/div/div[1]/div/div[1]/table/tr[1]/th"));
+				.findElements(By.xpath("//*[@id=\"home_top_five\"]/div/div[1]/div/div[1]/table/tr[1]/th")); //heading coloumn "th" tag
 		System.out.println(columnElement.size());
-		
 		
 		
 		for(int i=2; i<=rowElement.size(); i++) {

@@ -22,5 +22,4 @@ public class ImplicitWait {
 		mouse.moveToElement(element).perform();
 		driver.findElement(By.xpath("//*[@id=\"vl-flyout-nav\"]/ul/li[3]/div[2]/div[1]/nav[2]/ul/li[1]/a")).click();
 	}
-
 }

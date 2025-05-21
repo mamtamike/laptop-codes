@@ -20,23 +20,24 @@ public class SelectDropDown {
 		WebElement dropBox = driver.findElement(By.name("input_8"));
 		Select selectoption = new Select(dropBox);
 
-		selectoption.selectByIndex(1);
+		selectoption.selectByIndex(1); //click the option
 		Thread.sleep(2000);
-		selectoption.selectByValue("level4");
-		Thread.sleep(2000);
-		selectoption.selectByVisibleText("2,501 - 5,000 employees");
+		//selectoption.selectByValue("level4");
+		//Thread.sleep(2000);
+		//selectoption.selectByVisibleText("2,501 - 5,000 employees");
+		WebElement firstOption = selectoption.getFirstSelectedOption(); // gives default option text we can use it to
+		// verify 
+        System.out.println(firstOption.getText());
 
 		List<WebElement> options = selectoption.getOptions(); //here we stored all webelement in array list which we call by index
 		System.out.println(options.size());
 		for (int i = 0; i < options.size(); i++) {
-			System.out.println(options.get(i).getText());
+			System.out.println(options.get(i).getText()); //print all options
 		}
-		for (WebElement op : options) { //enhance loop method in which no need to depend on indexes
+		for (WebElement op: options) { //enhance loop method in which no need to depend on indexes
 			System.out.println(op.getText());
 		}
-		WebElement firstOption = selectoption.getFirstSelectedOption(); // gives default option text we can use it to
-																		// verify 
-		System.out.println(firstOption.getText());
-
-	}
+	
+		driver.quit();
+}
 }
